@@ -1,0 +1,13 @@
+# Ignore environment config
+.env
+
+# Ignore node dependencies
+node_modules/
+
+# Ignore OS-specific junk files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and debug output
+npm-debug.log
+yarn-error.log

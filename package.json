@@ -1,7 +1,7 @@
 {
   "name": "embed-bot",
   "version": "1.0.0",
-  "description": "Discord bot that is responsible for fixing links from twitter/x, pixiv, and pinterest. This bot has some utility modules as well",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
