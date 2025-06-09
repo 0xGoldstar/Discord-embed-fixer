@@ -4,6 +4,12 @@ A simple Discord bot that scans messages for supported links (like Pinterest or 
 
 ---
 
+## Demo
+
+https://github.com/user-attachments/assets/8898a639-1ce1-4cd6-8826-7f4ed988bac0
+
+---
+
 ## 📦 Requirements
 
 - **Node.js** v16.9.0 or higher (required for Discord.js v14)
